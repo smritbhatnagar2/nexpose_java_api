@@ -9,12 +9,12 @@
    <version>1.0.0</version>
    <packaging>jar</packaging>
 
-   <parent>
-      <groupId>com.rapid7</groupId>
-      <artifactId>java-root-pom</artifactId>
-      <version>1.9.6</version>
-      <relativePath />
-   </parent>
+<!--    <parent> -->
+<!--       <groupId>com.rapid7</groupId> -->
+<!--       <artifactId>java-root-pom</artifactId> -->
+<!--       <version>1.9.6</version> -->
+<!--       <relativePath /> -->
+<!--    </parent> -->
 
    <scm>
       <connection>scm:git:git@github.com:rapid7/nexpose_java_api.git</connection>
